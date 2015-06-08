@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ChatWorkTrial</string>
+
+    <string name="login_message">API TOKENを入力してログインボタンを押して下さい</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">ログアウト</string>
+    <string name="login_label">ログイン</string>
+    <string name="chatroomlist_title">チャットルーム一覧</string>
+    <string name="chatroom_title">チャットルーム</string>
+
+
+    <string name="room_title_label">チャットルーム名</string>
+    <string name="chatroom_sumit">投稿</string>
+    <string name="chatroom_cancel">キャンセル</string>
+
+</resources>
